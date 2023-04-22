@@ -1,0 +1,3 @@
+platformio
+PyQt5
+pyserial
